@@ -1,4 +1,4 @@
-# La Enseñanza de la Formación Profesional 2
+# La Enseñanza de la Formación Profesional
 
 **Profesora:** Jazmín Belossi 
 ![nube](nube.png)
