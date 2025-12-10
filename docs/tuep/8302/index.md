@@ -153,7 +153,7 @@ Podés incluir:
 
 ## Bibliografía obligatoria y complementaria
 
-#### Organización por unidades
+Organización por unidades
 
 :blue_book: Material efectivamente trabajado 
 
