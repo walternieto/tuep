@@ -9,6 +9,13 @@ markdown_extensions:
 markdown_extensions:
   - pymdownx.emoji
 
+plugins:
+  - search
+  - awesome-pages
+
+extra:
+  404: /404/
+
 nav:
   - Bienvenida: index.md
   - La Tecnicatura: carrera.md
@@ -34,10 +41,3 @@ nav:
 
   - Reflexión: reflexion.md
   - Contacto: contacto.md
-
-plugins:
-  - search
-  - awesome-pages
-
-extra:
-  404: /404/
