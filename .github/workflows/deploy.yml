@@ -21,16 +21,16 @@ jobs:
         with:
           python-version: '3.11'
           
-      - name: Upgrade pip
-        run: pip install --upgrade pip
-
       - name: Install dependencies
         run: |
           pip install mkdocs-material
           pip install mkdocs-awesome-pages-plugin
         
-      - name: Build and Deploy
-        run: mkdocs gh-deploy --force
+      - name: Build site
+        run: mkdocs build --clean --verbose
         
-      - name: Verify deployment
-        run: echo "✅ Sitio publicado en GitHub Pages"
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdocs gh-deploy --force
