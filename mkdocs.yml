@@ -37,4 +37,9 @@ nav:
 plugins:
   - search
   - awesome-pages
+  - redirects:
+      redirect_maps:
+        '404.html': '404.md'
 
+extra:
+  404: /404/
