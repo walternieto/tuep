@@ -10,6 +10,7 @@ markdown_extensions:
 
 nav:
   - Bienvenida: index.md
+  - in: tuep/index.md
   - La Tecnicatura: carrera.md
   - Materias: 
       - La Enseñanza...:
