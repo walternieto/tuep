@@ -1,9 +1,9 @@
-# Clase 02
+# Clase 01
 **Fecha:** día – mes – año  
 **Tema de la clase:** Nombre del tema principal  
 
 ---
-
+![img](../../img/enco7.png)
 ## Autores trabajados
 - Autor uno – obra o texto específico.
 - Autor dos – obra o texto específico.

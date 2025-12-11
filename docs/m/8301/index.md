@@ -1,16 +1,18 @@
-# Diseño Curricular de la Educación Profesional
+# La Formación Técnico Profesional; Contextos, Tendencias.
+Nombre de la materia
 
 **Profesor:** Nombre del profesor o profesores  
 **Modalidad:** Presencial / Virtual / Híbrida  
 **Año y cuatrimestre:** Año - Cuatrimestre  
 **Carrera:** Tecnicatura Universitaria en Educación Profesional - UNPAZ
 
----
+**página en construcción**
+![imagen](../../img/enco3.png)wt/docs/img/enco1.png
 
 ## Extracto de la planificación
 > Copiá acá un resumen breve del programa oficial de la materia.
 
----
+
 
 ## Síntesis de los temas y clases trabajados
 Listado general (podés linkear a subcarpetas):

@@ -3,7 +3,7 @@
 **Fechas trabajadas:** desde – hasta  
 
 ---
-
+![img](../../img/enco1.png)
 ## Resumen del tema
 Texto libre.  
 Incluir los conceptos centrales trabajados, autores clave, debates y enfoques de la bibliografía.

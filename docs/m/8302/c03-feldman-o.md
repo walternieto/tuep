@@ -1,7 +1,8 @@
-Clase 03
-# Daniel Feldman. Didáctica general.
+# Didáctica General
+Daniel Feldman. Capítulo 2. Clase 3.
+## **Capítulo II**
 
-​**Capítulo II**
+:headphones: [versión en audio](https://drive.google.com/file/d/1-bANxI5kABKQ5ONhTrzsKeVUju-i5G87/view?usp=sharing) :open_book: [resumen](c03-feldman-r.md) :blue_book: [texto original](c03-feldman-o.md) :pencil: [Actividades](c03-feldman-c.md) 
 
 **Modelos y enfoques de enseñanza: una perspectiva integradora**
 

@@ -3,6 +3,8 @@ title: Mis materias
 
 Esta tecnicatura es intensa, pero interesante.
 
+**Sitio en construcción**
+![img](../img/enco4.png)
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
