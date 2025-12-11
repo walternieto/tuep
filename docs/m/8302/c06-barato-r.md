@@ -2,6 +2,7 @@
 **Jarbas Novelino Barato**. Capítulos 1, 2 y 3.
 :headphones: [audio](https://drive.google.com/file/d/1ErsjODFiMxvi4VR2USMmozJFKmUDs8sb/view?usp=drive_link) :pencil: [actividad](c06-barato-f.md) 
 
+![barato](c06-barato.png)
 ## Resumen
 
 Jarbas Novelino Barato es un destacado educador brasileño, Doctor en Educación por la Universidad Estadual de Campinas (Unicamp) y Magíster en Tecnología Educacional por la San Diego State University. A lo largo de su carrera, ha ocupado diversos cargos en el Servicio Nacional de Aprendizaje Comercial (SENAC) de Brasil y ha sido consultor de la UNESCO. Su trabajo se centra en la pedagogía de la formación profesional, la epistemología del conocimiento técnico y la integración entre teoría y práctica en la educación para el trabajo

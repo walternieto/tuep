@@ -3,8 +3,6 @@
 :headphones: [audio](https://drive.google.com/file/d/1ErsjODFiMxvi4VR2USMmozJFKmUDs8sb/view?usp=drive_link) :book: [resumen](c06-barato-r.md) 
 ## Foro de Clase 06
 
-![barato](c06-barato.png)
-
 **¿Qué dice Barato en este video?**  :film_projector: [video](https://www.youtube.com/watch?v=AuaCzSYilVY)
 
 **A la cámara:**
@@ -25,3 +23,4 @@ Con respecto a la primera parte del video, cuando el autor dice que prefiere pen
 
 La segunda parte del video habla de un fenómeno creciente, que es la dificultad para la lectura, fenómeno en el cual me identifico. Yo sería uno de esos alumnos que lee el libro si tiene solamente 20 páginas o menos. Sin embargo, eso no significa que no sea capaz de conocer, explorar, investigar e indagar a través de nuevas formas de "leer" o acceder a fuentes de información, de reflexionar sobre lo que conozco y también de construir conocimiento. Puedo digitalizar un libro y convertirlo en audiolibro utilizando un software, o formar parte de una comunidad en línea que crea videos comentando el contenido de los libros, o que hace podcasts profundizando sobre los temas. Entonces, la misma información que antes solo podía estar en papel ahora se puede representar en otros formatos, recrear y ser más accesible. Yo creo que el autor no debería limitarse a escribir solamente libros de 20 páginas; podría seguir escribiendo libros de 500 páginas, solo que habría que pensar en alternativas para usar nuevos formatos multimedia para el libro: no solo el libro digitalizado en PDF, sino también audiolibros, presentaciones con esquemas y mapas conceptuales, series de podcasts en capítulos, o videos de pizarra blanca con dibujos estilo doodle. No se trata de la muerte del libro, sino de la existencia del libro en múltiples y nuevos formatos.
 
+![barato](c06-barato.png)
