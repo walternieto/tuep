@@ -72,42 +72,42 @@
     </tr>
     <tr>
       <td>8311</td>
-      <td>.</td>
+      <td>Didáctica de la Educación Profesional</td>
       <td>.</td>
     </tr>
     <tr>
       <td>8312</td>
-      <td>.</td>
+      <td>Electiva II</td>
       <td>.</td>
     </tr>
     <tr>
       <td>8313</td>
-      <td>.</td>
+      <td>Transformación Tecnológica para el Aula/Entorno Formativo de la Educación Profesional II</td>
       <td>.</td>
     </tr>
     <tr>
       <td>8314</td>
-      <td>.</td>
+      <td>Empleto, Territorio y Desarrollo Local</td>
       <td>.</td>
     </tr>
     <tr>
       <td>8315</td>
-      <td>.</td>
+      <td>Práctica Formativa III</td>
       <td>.</td>
     </tr>
     <tr>
       <td>8316</td>
-      <td>.</td>
+      <td>Evaluación de los Aprendizajes</td>
       <td>.</td>
     </tr>
     <tr>
       <td>8317</td>
-      <td>.</td>
+      <td>Actualización Tecnológica II</td>
       <td>.</td>
     </tr>
     <tr>
       <td>8318</td>
-      <td>.</td>
+      <td>Educación y Proyecto Nacional</td>
       <td>.</td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@
     </tr>
     <tr>
       <td>8320</td>
-      <td>.</td>
+      <td>Práctica Formativa IV</td>
       <td>.</td>
     </tr>
   </tbody>

@@ -1,7 +1,6 @@
-title: Mis materias
 # Materias cursadas
 
-Esta tecnicatura es intensa, pero interesante.
+
 
 **Sitio en construcción**
 ![img](../img/enco4.png)
