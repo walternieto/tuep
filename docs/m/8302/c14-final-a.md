@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # **Evaluación Final**
 
 En el marco de un proceso de formación docente desarrollado en la Universidad Nacional de José Clemente Paz (UNPAZ) en 2020, se logró sistematizar un conjunto de ideas clave sobre la enseñanza y el aprendizaje para carreras informacionales, expresados en el artículo "Hacia una pedagogía informacional situada". Esa reflexión derivó en la formulación de cinco pilares pedagógicos que buscan orientar las prácticas docentes en un contexto atravesado por saberes tecnosociales, tecnologías digitales y desafíos de época, apuntando a una pedagogía situada, crítica e innovadora.

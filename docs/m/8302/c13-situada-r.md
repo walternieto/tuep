@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Hacia una pedagogía informacional situada
 
 **Reflexiones a partir de una experiencia de formación docente.**  

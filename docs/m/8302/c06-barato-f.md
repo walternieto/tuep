@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Trabajo, Conocimiento y Formación Profesional
 **Jarbas Novelino Barato**. Capítulos 1, 2 y 3.
 :headphones: [audio](https://drive.google.com/file/d/1ErsjODFiMxvi4VR2USMmozJFKmUDs8sb/view?usp=drive_link) :book: [resumen](c06-barato-r.md) 
