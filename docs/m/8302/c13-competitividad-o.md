@@ -1,8 +1,10 @@
-# **¿Capacitar para la competitividad o promover los derechos? 
-Retóricas de la formación profesional desde un análisis de género, por Verónica Milenaar.**
+# ¿Capacitar para la competitividad o promover los derechos? 
+**Retóricas de la formación profesional desde un análisis de género, por Verónica Milenaar.**
 FLACSO ARGENTINA. Facultad Latinoamericana de Ciencias Sociales. **2014**
 
+:headphones: [audio](https://drive.google.com/file/d/1bR7Km7A8jEC2P36YyLmRZWoG-FREqlhW/view?usp=drive_link) :book: [resumen](c13-competitividad-r.md) :blue_book: [original](c13-competitividad-o.md) :pencil: [actividades](https://padlet.com/jazminbelossi/desaf-os-y-tensiones-en-la-formaci-n-profesional-reflexiones-kz4nq0usmyt1e9w0) 
 
+---
 
 **Introducción**
 
