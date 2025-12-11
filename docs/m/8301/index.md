@@ -7,7 +7,9 @@ Nombre de la materia
 **Carrera:** Tecnicatura Universitaria en Educación Profesional - UNPAZ
 
 **página en construcción**
-![imagen](../../img/enco3.png)wt/docs/img/enco1.png
+
+![imagen](../../img/enco3.png)
+
 
 ## Extracto de la planificación
 > Copiá acá un resumen breve del programa oficial de la materia.

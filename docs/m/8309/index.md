@@ -7,6 +7,7 @@ title: Resumen
 **Carrera:** Tecnicatura Universitaria en Educación Profesional - UNPAZ
 
 ---
+**Sitio en construcción**
 ![img](../../img/enco5.png)
 Extracto de la planificación
 > Copiá acá un resumen breve del programa oficial de la materia.

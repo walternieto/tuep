@@ -3,6 +3,7 @@
 **Fechas trabajadas:** desde – hasta  
 
 ---
+**En construcción**
 ![img](../../img/enco1.png)
 ## Resumen del tema
 Texto libre.  

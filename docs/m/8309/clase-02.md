@@ -3,6 +3,7 @@
 **Tema de la clase:** Nombre del tema principal  
 
 ---
+**En construcción**
 ![img](../../img/enco2.png)
 ## Autores trabajados
 - Autor uno – obra o texto específico.
