@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Didáctica General
 Daniel Feldman. Capítulo 2. Clase 3.
 ## **Capítulo II**

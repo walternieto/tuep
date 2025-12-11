@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Gilles Ferry (1993)
 
 **Acerca del concepto de formación**

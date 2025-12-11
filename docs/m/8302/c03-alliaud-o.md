@@ -1,5 +1,7 @@
-Clase 3.
-
+---
+hide:
+  - toc
+---
 # El campo de la práctica de formación docente
 Andrea Alliaud (Recorte). Clase 3.
 :book: [resumen](c03-alliaud-r.md) :headphones: [audio](https://drive.google.com/file/d/1m1prASZmCXgvkME_NNS4a-V6KqJc8ACH/view?usp=sharing) :pencil: [actividades](c03-alliaud-r.md#actividades)

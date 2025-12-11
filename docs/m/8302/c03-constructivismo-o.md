@@ -1,4 +1,7 @@
-
+---
+hide:
+  - toc
+---
 # ¿Qué estamos hablando cuando hablamos de enseñar desde una perspectiva constructivista? 
 
 :headphones: [audio](https://drive.google.com/file/d/1Q_diiPbP8h66KHMSOODD_esOu3eg8k5Y/view?usp=sharing) :pencil: [actividad](c03-ferry-r.md#actividad)

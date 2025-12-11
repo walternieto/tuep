@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Defensa De La Escuela. Una Cuestión Pública.
 
 Jan Masschelein. Maarten Simons.
@@ -69,3 +73,4 @@ Aquí subyace un punto importante. En la medida en que la educación escolar tie
 > _“Eran artistas en la transmisión de su materia. Sus clases eran actos de comunicación,_ _claro está, pero de un saber dominado hasta el punto de pasar casi por creación_ _espontánea. Su facilidad convertía cada hora en un acontecimiento que podíamos_ _recordar como tal. Podía pensarse que la señorita Gi resucitaba la historia, que el señor_ _Bal redescubría la matemática, que Sócrates hablaba por boca del señor S. Nos daban_ _clases tan memorables como el teorema, el tratado de paz o la idea fundamental, que_ _aquel día era el tema. Enseñándolo, creaban el acontecimiento”_ (Pennac, 2010:225-226).
 
 Podríamos formular esos “acontecimientos” como algo que nos hace pensar, que despierta nuestro interés, que hace que algo se torne real y signiﬁcativo, que se convierta en una materia o en un asunto que importa. Una demostración matemática, una novela, un virus, un cromosoma, un bloque de madera o un motor: todas estas cosas se vuelven interesantes y signiﬁcativas. Ese es el acontecimiento mágico de la escuela, ese “movere” —ese movimiento real— que no hay que remontar a una decisión, a una elección o a una motivación personal. Mientras la motivación es una especie de asunto personal y mental, el interés es siempre algo que está fuera de nosotros mismos, algo que nos toca y nos conmueve y nos impulsa a estudiar, a pensar y a practicar. Nos lleva fuera de nosotros mismos. La escuela se convierte en el espacio/tiempo del inter-esse, de eso que compartimos entre nosotros: el mundo en sí mismo. En ese momento, los estudiantes no son ya individuos con necesidades especíﬁcas que eligen dónde quieren invertir su tiempo y su energía; ellos se exponen al mundo y son invitados a interesarse en él. Es un momento en el que la verdadera comunicación es posible. Sin un mundo no hay interés ni atención.
+
