@@ -2,12 +2,12 @@
 hide:
   - toc
 ---
-# Informe Work Skills 2020 del Institute For The Future (IFTF)
+# Tecnología, Innovación y Competencias Ocupacionales en la Sociedad del Conocimiento
 Ana Catalano. Clase 3. 
 
 :loud_sound: [audio](https://drive.google.com/file/d/1Ml34Z4BicM69Kjk6awTricYuFj4kPIrS/view?usp=sharing) :blue_book: [original](c03-catalano-o.md) :book: [resumen](c03-catalano-r.md) :construction_worker: [IFTF](c03-IFTF-r.md) :pencil: [actividad](c03-catalano-a.md)  
 
-**Informe Work Skills 2020**
+**Informe Work Skills 2020 del Institute For The Future (IFTF)**
 
 ![imagen](c03-IFTF.jpg)
 ## **Las 10 Competencias y Habilidades Requeridas en el empleo del futuro** 
