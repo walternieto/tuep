@@ -8,7 +8,7 @@ Ana Catalano. Clase 3.
 :headphones: [audio](https://drive.google.com/file/d/1G38EzKOixGDRoaeqDb280Qa6i7wEqQ4B/view?usp=sharing) :blue_book: [original](c03-catalano-o.md) :book: [resumen](c03-catalano-r.md) :construction_worker: [IFTF](c03-IFTF-r.md) :pencil: [actividad](c03-catalano-a.md)  
 
 ---
-
+![catalano](c03-catalano.png)
 **Resumen**
 ## 🔹 **Introducción a la obra de Ana Catalano**
 
