@@ -4,7 +4,7 @@ hide:
 ---
 # Reflexiones y conclusiones
 
-Decidí estudiar la Tecnicatura Universitaria en Educación Profesional (TUEP) a partir de una invitación de tres colegas docentes que se anotaron, y uno de ellos ya estaba cursando el segundo año. Al principio me costó el ritmo intenso de las cursadas, ya que son 5 materias por cuatrimestre con una densidad teórica elevada; numerosos materiales, diversos autores y obras que dan fundamento a la formación profesional, en Argentina y en el mundo. 
+Decidí estudiar la Tecnicatura Universitaria en Educación Profesional (TUEP) a partir de una invitación de colegas docentes de la modalidad de Formación Profesional. Al principio me costó el ritmo intenso de las cursadas, ya que son 5 materias por cuatrimestre con una densidad teórica elevada; numerosos materiales, diversos autores y obras que dan fundamento a la formación profesional, en Argentina y en el mundo. 
 
 La dificultad no estaba solamente en las lecturas, algo a lo que no estoy habituado, sino también en el sesgo ideológico que atraviesa la educación en Argentina a partir de los gobiernos populistas. De este modo, todo lo referente a la insistencia con los modelos estatistas, centralizados, el colectivismo y la cultura woke no quedaba afuera de la narrativa en muchas de las materias. En varias oportunidades, por la defensa de mi ideología libertaria, me ví envuelto en tensiones en las que había que ser muy cuidadoso para expresarse, a la vez que dejar claro a los docentes que no se compromete el desempeño académico. Muchas veces en las universidades argentinas a partir del kirchnerismo, hay una línea ideológica que se presume la "normal" o la "correcta", por lo que descubrí que la batalla cultural también se da en las aulas.
 
