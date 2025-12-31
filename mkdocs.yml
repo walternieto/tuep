@@ -1,8 +1,9 @@
-site_name: TUEP - Base de Conocimiento
+site_name: Base de Conocimiento TUEP de Walter Nieto
 site_url: https://walternieto.github.io/tuep/
 
 theme:
   name: material
+  favicon: img/favicon.ico
 
 markdown_extensions:
   - attr_list
@@ -15,6 +16,8 @@ plugins:
 
 extra:
   404: /404/
+  apple_touch_icon: img/apple-touch-icon.png
+  generator: false  # Oculta "Made with MkDocs" para SEO
 
 nav:
   - Bienvenida: index.md
